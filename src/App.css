@@ -1,6 +1,4 @@
-.App {
-  text-align: center;
-}
+
 
 .App-logo {
   height: 40vmin;
@@ -35,4 +33,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.css-1nmdiq5-menu{
+  opacity: 100px!important;
 }
